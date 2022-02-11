@@ -5,5 +5,7 @@ public class Main {
         System.out.println("1st class");
 
         System.out.println("2.nd step");
+
+        System.out.println("3rd step");
     }
 }
